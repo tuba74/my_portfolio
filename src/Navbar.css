@@ -1,0 +1,43 @@
+.navbar{
+    background: linear-gradient(
+    135deg,
+    #323552,
+    #22396F,
+    #4d5275
+    )
+   !important;
+   opacity: 1;
+    color:#FCF1D0;
+    height: 3.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+}
+.navbar a{
+    text-decoration: none;
+    color: #FCF1D0;
+    opacity: 0.9;
+}
+.nav-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 50%;
+}
+.navTitle{
+    display: flex;
+    flex-direction: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 15%;
+    padding:0 0 0 2rem;
+    font-size: large;
+}

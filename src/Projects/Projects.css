@@ -1,0 +1,15 @@
+.main{
+    /* height:100vh; */
+    background: linear-gradient(
+    135deg,
+    #22396F,
+     #747687,
+    #a8aabc
+   
+  );
+  /* display: flex; */
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  padding:3rem 0 0 10rem;
+}

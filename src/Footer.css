@@ -1,0 +1,19 @@
+.footer{
+    height:3rem;
+    background-color: #4d5275;
+    /* margin-top: 2rem; */
+    padding:10px;
+    
+    text-align: center;
+}
+.footer p{
+    opacity: 0.5;
+}
+.footer p::before {
+  content: "•";
+  margin-right: 10px;
+}
+.footer p::after {
+  content: "•";
+  margin-right: 10px;
+}
