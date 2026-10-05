@@ -36,7 +36,7 @@ function Projects() {
             Plink:"https://airbnb-project-j9te.onrender.com/listings",
             Glink:"https://github.com/tuba74/Wanderlust",
             // Vlink:"https://drive.google.com/file/d/1hO7T6tucpGEVdRBAJGShY-T0fhdQelEZ/view?usp=sharing"
-            Vlink:WanderLustVid
+            Vlink: WanderLustVid
         }
         
     }
