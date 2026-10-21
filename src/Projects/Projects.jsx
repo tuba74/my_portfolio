@@ -6,6 +6,7 @@ import gptImg from '../assets/gpt.png';
 import zerodhaImg from '../assets/zerodha.png';
 import zerodhaVid from '../assets/zerodhaVid.mp4';
 import WanderLustVid from '../assets/WanderLustVid.mp4';
+import chatgptVid from '../assets/chatgptVid.mp4';
 // import zerodhaImg2 from './assets/zerodhaImg2.png'
 
 
@@ -15,9 +16,9 @@ function Projects() {
             name: "GPT4.0- AI powered chatbot ", 
             info:"Built an AI-powered chatbot using a MERN-based frontend architecture.Integrated OpenAI APIs (including NVIDIA LLM models) to generate intelligent responses touser prompts.Implemented multiple chat threads displayed in a sidebar, enabling users to manage andswitch between conversations.Ensured that chat threads are securely accessible only to authenticated usersDeveloped RESTful APIs to handle CRUD operations (Create, Read, Update, Delete) for verifieduser chats",
             img:gptImg,
-            Plink:"",
-            Glink:"",
-            Vlink:""
+            Plink:"https://gpt40.netlify.app/",
+            Glink:"https://github.com/tuba74/GPT4.0",
+            Vlink:chatgptVid
 
         },
         zerodha:{
